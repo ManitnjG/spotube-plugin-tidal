@@ -1,0 +1,12 @@
+{
+  "type": "metadata",
+  "version": "1.0.0",
+  "name": "spotube-plugin-tidal",
+  "author": "ManitnjG",
+  "description": "Tidal metadata provider plugin for Spotube. Browse, search and stream your Tidal library directly inside Spotube.",
+  "entryPoint": "TidalPlugin",
+  "apis": ["webview", "localstorage"],
+  "abilities": ["authentication"],
+  "repository": "https://github.com/ManitnjG/spotube-plugin-tidal",
+  "pluginApiVersion": "1.0.0"
+}
